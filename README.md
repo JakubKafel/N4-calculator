@@ -20,4 +20,4 @@ Planned features:
 - ARM / BTS testing
 - graph with percentage chances
 - Damage calculation
-- 
+- recurrent skills choice
